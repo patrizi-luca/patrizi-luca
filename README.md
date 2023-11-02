@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrizi-luca
 - 👀 I’m interested in Computer Science, Physics and Philosophy
-- 🌱 I’m currently working as a software engineer at Vislab in Parma and in my free time I study for a degree in Philosophy.
+- 🌱 Currently working as a software engineer at Vislab in Parma.
 - 📫 How to reach me luca.patriz@gmail.com
 
 <!---
